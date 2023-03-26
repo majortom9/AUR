@@ -4,8 +4,8 @@
 
 pkgname='minisatip-git'
 pkgdesc='SAT>IP server, tested with DVB-S, DVB-S2, DVB-T, DVB-T2, DVB-C, DVB-C2, ATSC and ISDB-T cards (experimental)'
-pkgver=1.2.1.r0.g5a740db
-pkgrel=2
+pkgver=1.2.74.r8.gc78211c
+pkgrel=1
 arch=('x86_64' 'i686' 'arm' 'armv6h' 'armv7h' 'aarch64')
 url='https://minisatip.org'
 license=('GPL2')
